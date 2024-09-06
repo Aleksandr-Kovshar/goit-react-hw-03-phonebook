@@ -6,6 +6,7 @@ export const FilterStyled = styled.input`
   border: 1px solid #ccc;
   border-radius: 5px;
   margin-bottom: 10px;
+  text-align: center;
 
   &:focus {
     outline: none;
